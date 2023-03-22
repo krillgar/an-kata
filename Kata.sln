@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata", "Kata\Kata.csproj", "{983E892C-9ACE-45D7-B348-F5C772A44683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.Tests", "Kata.Tests\Kata.Tests.csproj", "{393AF86E-CD7B-485A-A570-43BD812A13C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983E892C-9ACE-45D7-B348-F5C772A44683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983E892C-9ACE-45D7-B348-F5C772A44683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983E892C-9ACE-45D7-B348-F5C772A44683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983E892C-9ACE-45D7-B348-F5C772A44683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{393AF86E-CD7B-485A-A570-43BD812A13C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393AF86E-CD7B-485A-A570-43BD812A13C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393AF86E-CD7B-485A-A570-43BD812A13C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393AF86E-CD7B-485A-A570-43BD812A13C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
